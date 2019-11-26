@@ -1,5 +1,5 @@
 
 public class personne {
-int v=20;
+int v=30;
 	
 }
